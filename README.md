@@ -1,2 +1,2 @@
 # dio-java-basico
-Bootcamp DIO Java
+Bootcamp DIO Java com IA
